@@ -3,7 +3,7 @@
 A Terraform-based solution for automating the creation and management of GitHub repositories, including branch protection rules and essential repository settings to ensure security and compliance. The xOps control **XC-SCM-02 Version Control Best Practices** are automatically enforced during repository creation, with all required checks and settings applied to ensure adherence to these standards.
 
 ## StatusBadge
-[![Repository Management Deployment](https://github.com/Trimble-xOps/github-repository-management/actions/workflows/terraform.yaml/badge.svg?branch=main)](https://github.com/Trimble-xOps/github-repository-management/actions/workflows/terraform.yaml)     [![Code Quality Scan](https://github.com/Trimble-xOps/github-repository-management/actions/workflows/sonarscan.yaml/badge.svg?branch=main)](https://github.com/Trimble-xOps/github-repository-management/actions/workflows/sonarscan.yaml)
+[![Code Quality Scan](https://github.com/Trimble-xOps/github-repository-management/actions/workflows/sonarscan.yaml/badge.svg?branch=main)](https://github.com/Trimble-xOps/github-repository-management/actions/workflows/sonarscan.yaml)
 
 ## Repository Structure
 ```
