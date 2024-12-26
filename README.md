@@ -1,4 +1,4 @@
-# github-repository-managements
+# github-repository-management
 ## Overview
 A Terraform-based solution for automating the creation and management of GitHub repositories, including branch protection rules and essential repository settings to ensure security and compliance. The xOps control **XC-SCM-02 Version Control Best Practices** are automatically enforced during repository creation, with all required checks and settings applied to ensure adherence to these standards.
 
